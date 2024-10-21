@@ -24,7 +24,7 @@ An AI-driven summarizer that condenses large volumes of text into key points, al
 #### Time Management
 The Pomodoro timer helps students apply structured time intervals to their study sessions, optimizing productivity.
 
-### Chatbot
+#### Chatbot
 Uses Google's Gemini AI API to solve all queries.
 
 
