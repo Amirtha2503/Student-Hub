@@ -1,10 +1,13 @@
-# Student-Hub
+# StudentHub
 The code files for FSD End semester project.
-Done by:
+### Done by:
 CH.EN.U4AIE21105 - Amirthavarshini V
+
 CH.EN.U4AIE21117 - Jayant Toleti
 
-The **Student Hub** app focuses on core features essential to academic success while remaining flexible enough to adapt to various subjects and study styles. The app covers:
+
+
+The **StudentHub** app focuses on core features essential to academic success while remaining flexible enough to adapt to various subjects and study styles. The app covers:
 
 ### Task Management
 A to-do list system that helps students track assignments, deadlines, and personal tasks.
