@@ -9,19 +9,19 @@ CH.EN.U4AIE21117 - Jayant Toleti
 
 The **StudentHub** app focuses on core features essential to academic success while remaining flexible enough to adapt to various subjects and study styles. The app covers:
 
-### Task Management
+#### Task Management
 A to-do list system that helps students track assignments, deadlines, and personal tasks.
 
-### Note-taking
+#### Note-taking
 A space where students can write, save, and edit their notes for classes, projects, or personal reference.
 
-### Calendar Integration
+#### Calendar Integration
 An event scheduling feature with reminders for important deadlines, exams, and meetings.
 
-### Summarization Tool
+#### Summarization Tool
 An AI-driven summarizer that condenses large volumes of text into key points, allowing for quick revisions and comprehension.
 
-### Time Management
+#### Time Management
 The Pomodoro timer helps students apply structured time intervals to their study sessions, optimizing productivity.
 
 ### Chatbot
